@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1557301069 source:c:\users\solanine\desktop\练习\8.1图的最小生成树\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cmath>
+	<algorithm>
+

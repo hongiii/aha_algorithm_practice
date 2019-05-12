@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1551182109 source:c:\users\solanine\desktop\Á·Ï°\°¡¹şËã·¨\1.3¿ìÅÅ\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<cstring>
+	<algorithm>
+

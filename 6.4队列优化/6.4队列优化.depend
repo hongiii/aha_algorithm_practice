@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1553496763 source:c:\users\solanine\desktop\练习\6.4队列优化\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+

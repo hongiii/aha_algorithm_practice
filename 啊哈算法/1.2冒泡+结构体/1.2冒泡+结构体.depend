@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1551172784 source:c:\users\solanine\desktop\练习\啊哈算法\1.2冒泡+结构体\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+
